@@ -11,6 +11,6 @@ Drum Kit Player is Web Simulation of Drum Kit where you can play differernt drum
 3. JavaScript
 
 ## Demo
-Click [here](https://sachinbhutekarcs.github.io/Drum-Kit-Player/).
+Click [here](https://sachinbhutekarcs.github.io/Drum-Kit-Player/) to give it a try, you will ❤ it.
 
-Hit ⭐ if you loved it. Thank You
+Hit ⭐ if you ❤ it. Thank You😊
